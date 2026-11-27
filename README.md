@@ -1,5 +1,7 @@
 # Warmbly on Hetzner: setup kit
 
+> **This kit has moved.** It is now the cold email part of AI Business Setup: https://github.com/A0339x/ai-business-setup, in the folder `parts/cold-email`. Use that copy. This repo stays here, but it gets no more updates.
+
 This kit lets Claude Code set up your own cold email server. Claude does the technical work. You sign up, pay, and approve a few things.
 
 ## What you get
